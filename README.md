@@ -4,11 +4,11 @@ This archive is distributed under the [MIT License](LICENSE).
 
 The source code and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the manuscript under review 
-[A Primal-dual Policy Iteration Algorithm for Constrained Markov Decision Processes](https://www.researchgate.net/publication/353295872_A_Benders_Decomposition_Method_for_Markov_Decision_Processes) by Z. Liu et. al. The data generated for this study are included with the codes.
+[A Primal-dual Policy Iteration Algorithm for Constrained Markov Decision Processes](https://www.researchgate.net/publication/353295872_A_Primal-dual_Policy_Iteration_Algorithm_for_Constrained_Markov_Decision_Processes) by Z. Liu et. al. The data generated for this study are included with the codes.
 
 ## Cite
 
-To cite this repository, please cite the [manuscript](https://www.researchgate.net/publication/353295872_A_Benders_Decomposition_Method_for_Markov_Decision_Processes).
+To cite this repository, please cite the [manuscript](https://www.researchgate.net/publication/353295872_A_Primal-dual_Policy_Iteration_Algorithm_for_Constrained_Markov_Decision_Processes).
 
 Below is the BibTex for citing the manuscript.
 
@@ -18,7 +18,7 @@ Below is the BibTex for citing the manuscript.
   author={Liu, Zeyu and Li, Xueping and Khojandi, Anahita},
   journal={Preprint},
   year={2023},
-  url={https://www.researchgate.net/publication/353295872_A_Benders_Decomposition_Method_for_Markov_Decision_Processes}
+  url={https://www.researchgate.net/publication/353295872_A_Primal-dual_Policy_Iteration_Algorithm_for_Constrained_Markov_Decision_Processes}
 }
 ```
 
