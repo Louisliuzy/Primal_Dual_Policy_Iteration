@@ -17,7 +17,7 @@ Below is the BibTex for citing the manuscript.
   title={A Primal-dual Policy Iteration Algorithm for Constrained Markov Decision Processes},
   author={Liu, Zeyu and Li, Xueping and Khojandi, Anahita},
   journal={Preprint},
-  year={2023},
+  year={2025},
   url={https://www.researchgate.net/publication/353295872_A_Primal-dual_Policy_Iteration_Algorithm_for_Constrained_Markov_Decision_Processes}
 }
 ```
